@@ -1,0 +1,21 @@
+<html>  
+<div class="header">
+  <h1 >T H E R O S</h1>
+  </div>
+
+<ul class="nav">
+  <li><a href="home.php">Home</a></li>
+  
+  <li class="dropdown">
+    <a href="javascript:void(0)" "men.php" class="dropbtn">Users</a>
+    <div class="dropdown-content">
+      <a href="view_users.php">View users</a>
+
+  <li><a href="#about">Products</a></li> 
+  <li class="dropdown">
+    <a href="javascript:void(0)" class="dropbtn">Log out</a>
+
+    </div>
+  </li>
+</ul>
+    <link type="text/css" rel="stylesheet" href="style.css">  
